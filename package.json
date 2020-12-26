@@ -1,0 +1,8 @@
+{
+  "name": "retrying-and-exponential-backoff-with-promises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grinsteindavid/retrying-and-exponential-backoff-with-promises.git",
+  "author": "david <davidmirandagrinstein@gmail.com>",
+  "license": "MIT"
+}
